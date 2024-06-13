@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 str=input()
 str=[x for x in str]
 str=set(str)
@@ -95,3 +96,4 @@ if(len(result)!=0):
         print(result[i])
 else:
     print("No words")
+#Done by M Harish AIML-A 231501058

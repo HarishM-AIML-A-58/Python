@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 def abundant(n):
     sum=0
     for i in range(1,n):
@@ -80,3 +81,4 @@ def checkUgly(n):
         n //= 5
 
     return "ugly" if n == 1 else "not ugly"
+#Done by M Harish AIML-A 231501058

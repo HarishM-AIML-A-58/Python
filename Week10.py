@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 a = int(input())
 b = list(input().split(" "))
 b.sort()
@@ -69,3 +70,4 @@ for num in numbers:
 sorted_frequency = sorted(frequency.items())
 for key, value in sorted_frequency:
     print(key, value)
+#Done by M Harish AIML-A 231501058

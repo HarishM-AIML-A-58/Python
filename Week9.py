@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 s1 = input()
 s2 = input()
 
@@ -121,3 +122,4 @@ for j in l1:
         if j in values:
             sum+=key
 print(f"{s} is worth {sum} points.")
+#Done by M Harish AIML-A 231501058

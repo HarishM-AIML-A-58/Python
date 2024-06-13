@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 a=int(input())
 for i in range(1,a+1):
       if (a%i==0):
@@ -107,3 +108,4 @@ if (fin==pow(sq,2)):
     print(“Yes”)
 else:
     print(“No”)
+#Done by M Harish AIML-A 231501058

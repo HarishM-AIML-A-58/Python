@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 widgets = int(input())
 gizmos = int(input())
 widget_weight = widgets * 75
@@ -74,3 +75,4 @@ print("The tax is {:.2f} and the tip is {:.2f}, making the total {:.2f}".format(
 number = int(input())
 last_digit = abs(number) % 10
 print(last_digit)
+#Done by M Harish AIML-A 231501058

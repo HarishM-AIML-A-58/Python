@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 import math
 n = int(input())
 print(n > 0 and math.log2(n).is_integer())
@@ -57,4 +58,4 @@ for _ in range(n):
 average_marks = total_marks / n
 print(f"{average_marks:.2f}")
 
- 
+ #Done by M Harish AIML-A 231501058

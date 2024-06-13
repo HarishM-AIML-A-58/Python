@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 x = str(input())
 
 c1, c2, c3 = 0, 0, 0
@@ -143,3 +144,4 @@ if "." in a:
 print(a[c+1:])
 print(a[b+1:c])
 print(a[:b])
+#Done by M Harish AIML-A 231501058
